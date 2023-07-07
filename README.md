@@ -1,4 +1,4 @@
-<h2 align="left">Seja Bem-vindo (a)👋 Me chamo Alexandre Cruz</h2>
+<h2 align="left">Seja Bem-vindo (a)🤝 Me chamo Alexandre Cruz 👨‍💻</h2>
 
 ###
 
